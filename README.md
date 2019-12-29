@@ -16,7 +16,7 @@ Sample dataset can be available in dataset folder. The data format is as follows
 工程 的 立项 、 设计 都 要 充分 论证 , 反复 比较 , 使 工程 经 得 起 时间 检验 。 \t <bos> the establishment and design of projects must be fully debated and repeated comparisons must be made in order to make the project stand the test of time . <eos>
 ...
 ```
-Note: <bos> and <eos> represent the start and end of the target language respectively.
+Note: <'bos> and <'eos> represent the start and end of the target language respectively.
 
 ## How to run
 #### Train & Dev
